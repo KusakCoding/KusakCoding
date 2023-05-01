@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning C#, C++, Java and PHP
 - 💞️ I’m looking to collaborate on Web or Python projects.
 - 📫 How to reach me? You can't.
-
+- 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
