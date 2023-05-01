@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on Web or Python projects.
 - 📫 How to reach me? You can't.
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
